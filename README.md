@@ -1,1 +1,7 @@
-"# Can-I-Shop-2" 
+This is School Management Web API (Demo Purpose only)
+
+Technology Stack:
+
+.NET Core
+
+
